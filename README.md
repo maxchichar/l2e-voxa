@@ -186,8 +186,9 @@ This platform is exclusively for the Learn2Earn ecosystem. Contributions from ve
 
 ## License
 
-Private — All rights reserved. Not open for public use outside the Learn2Earn ecosystem.
+Private — All Rights Reserved.
 
+This project is proprietary and intended exclusively for use within the Learn2Earn ecosystem. No public use, modification, redistribution, or commercialization is permitted without explicit written authorization from the copyright holder.
 ---
 
 *The strongest communities are not built by the loudest voices. They are built by the most honest ones.*
